@@ -52,7 +52,7 @@
 </div>
 
 <script>
-  // ✅ 기존 Firebase 그대로 써도 되고, 새 프로젝트로 옮기면 여기만 새 config로 바꾸면 됨
+  // ✅ 기존 Firebase 그대로 써도 되고
   const firebaseConfig = {
     apiKey: "AIzaSyAi89e-UbIewoENV4MH-kz_DKYJkP9Z2AA",
     authDomain: "index-8ed43.firebaseapp.com",
